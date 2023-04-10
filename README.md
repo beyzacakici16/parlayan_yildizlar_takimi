@@ -1,1 +1,2 @@
-# parlayan_yildizlar_takimi
+# parlayan_yildizlar_takimi 
+Merhaba
