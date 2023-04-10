@@ -1,2 +1,2 @@
 # parlayan_yildizlar_takimi 
-Merhaba
+Merhaba arkadaşlar
